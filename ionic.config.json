@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoAndroid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
